@@ -69,3 +69,4 @@ footer{background:#06101d;color:var(--steel);text-align:center;padding:22px;font
 .gallery figcaption{position:absolute;left:0;right:0;bottom:0;padding:26px 14px 10px;color:#fff;font-size:.85rem;font-weight:600;background:linear-gradient(transparent,rgba(11,26,46,.88))}
 @media(max-width:820px){.gallery{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:480px){.gallery{grid-template-columns:1fr}}
+.tile .credit{margin-top:10px;font-size:.72rem;color:#8a96a3;line-height:1.4}.tile .credit a{color:inherit;text-decoration:underline}
